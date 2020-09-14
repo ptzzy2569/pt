@@ -1,6 +1,6 @@
 常看频道,#genre#
-莆田新闻综合频道,http://gslb.dianshihome.com/gslb/live?stream_id=putian_putian1&.m3u8#rtsp://112.50.242.148/PLTV/88888888/224/3221226724/45553236.smil
-莆田经济生活频道,http://gslb.dianshihome.com/gslb/live?stream_id=putian_putian2&.m3u8
+莆田新闻综合频道,http://gslb.dianshihome.com/gslb/live?stream_id=putian_putian1&.m3u8#http://0594.52yi.vip/fjgw.php?id=189&.m3u8#rtsp://112.50.242.148/PLTV/88888888/224/3221226724/45553236.smil
+莆田经济生活频道,http://gslb.dianshihome.com/gslb/live?stream_id=putian_putian2&.m3u8#http://0594.52yi.vip/fjgw.php?id=190&.m3u8
 凤凰中文,http://27.148.240.138/PLTV/88888888/224/3221226980/1.m3u8#http://39.135.225.5:18890/PLTV/88888888/224/3221225900/1.m3u8
 凤凰资讯,http://27.148.240.138/PLTV/88888888/224/3221226929/1.m3u8#http://39.135.225.5:18890/PLTV/88888888/224/3221225901/1.m3u8
 央视新闻,https://newsalic.v.myalicdn.com/news/news10_1/index.m3u8?contentid=2820180516001
@@ -48,20 +48,6 @@ CCTV-14少儿,http://39.135.225.5:18890/PLTV/88888888/224/3221225819/index.m3u8
 CCTV-15音乐,http://39.135.225.5:18890/PLTV/88888888/224/3221225818/index.m3u8
 CCTV-17农业农村,http://39.135.225.5:18890/PLTV/88888888/224/3221226986/index.m3u8
 
-CCTV-1综合,http://szdl.3322.org:8888/rtp/233.50.201.118:5140#http://szdl.3322.org:8888/rtp/233.50.201.222:5140
-CCTV-2财经,http://szdl.3322.org:8888/rtp/233.50.201.119:5140
-CCTV-3综艺,http://szdl.3322.org:8888/rtp/233.50.201.196:5140
-CCTV-5体育,http://szdl.3322.org:8888/rtp/233.50.201.197:5140
-CCTV-5+体育赛事,http://szdl.3322.org:8888/rtp/233.50.201.220:5140
-CCTV-6电影,http://szdl.3322.org:8888/rtp/233.50.201.198:5140
-CCTV-7国防军事,http://szdl.3322.org:8888/rtp/233.50.201.120:5140
-CCTV-8电视剧,http://szdl.3322.org:8888/rtp/233.50.201.199:5140
-CCTV-9纪录,http://szdl.3322.org:8888/rtp/233.50.201.121:5140#http://szdl.3322.org:8888/rtp/233.50.201.108:5140
-CCTV-10科教,http://szdl.3322.org:8888/rtp/233.50.201.122:5140
-CCTV-12社会与法,http://szdl.3322.org:8888/rtp/233.50.201.123:5140
-CCTV-13新闻http://szdl.3322.org:8888/rtp/233.50.201.246:5140
-CCTV-14少儿,http://szdl.3322.org:8888/rtp/233.50.201.124:5140
-
 
 东南卫视,http://27.148.240.138/PLTV/88888888/224/3221226754/1.m3u8
 海峡卫视国际频道,http://27.148.240.138/PLTV/88888888/224/3221226748/1.m3u8
@@ -108,28 +94,6 @@ CCTV-14少儿,http://szdl.3322.org:8888/rtp/233.50.201.124:5140
 黑龙江卫视,http://39.135.225.5:18890/PLTV/88888888/224/3221225940/index.m3u8
 四川卫视,http://39.135.225.5:18890/PLTV/88888888/224/3221227006/index.m3u8
 
-浙江卫视,http://szdl.3322.org:8888/rtp/233.50.201.100:5140
-深圳卫视,http://szdl.3322.org:8888/rtp/233.50.201.101:5140
-广东卫视,http://szdl.3322.org:8888/rtp/233.50.201.102:5140
-天津卫视,http://szdl.3322.org:8888/rtp/233.50.201.104:5140
-湖南卫视,http://szdl.3322.org:8888/rtp/233.50.201.103:5140
-山东卫视,http://szdl.3322.org:8888/rtp/233.50.201.105:5140
-江苏卫视,http://szdl.3322.org:8888/rtp/233.50.201.106:5140
-北京卫视,http://szdl.3322.org:8888/rtp/233.50.201.107:5140
-安徽卫视,http://szdl.3322.org:8888/rtp/233.50.201.113:5140
-湖北卫视,http://szdl.3322.org:8888/rtp/233.50.201.114:5140
-黑龙江卫视,http://szdl.3322.org:8888/rtp/233.50.201.115:5140
-东方卫视,http://szdl.3322.org:8888/rtp/233.50.201.125:5140
-四川卫视,http://szdl.3322.org:8888/rtp/233.50.201.139:5140
-河北卫视,http://szdl.3322.org:8888/rtp/233.50.201.140:5140
-辽宁卫视,http://szdl.3322.org:8888/rtp/233.50.201.141:5140
-贵州卫视,http://szdl.3322.org:8888/rtp/233.50.201.142:5140
-重庆卫视,http://szdl.3322.org:8888/rtp/233.50.201.143:5140
-河南卫视,http://szdl.3322.org:8888/rtp/233.50.201.144:5140
-江西卫视,http://szdl.3322.org:8888/rtp/233.50.201.145:5140
-东南卫视,http://szdl.3322.org:8888/rtp/233.50.201.146:5140
-
-
 
 甘肃卫视,http://39.134.39.39/PLTV/88888888/224/3221226240/index.m3u8
 广西卫视,http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000294203.m3u8#http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=121&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1#http://ivi.bupt.edu.cn/hls/gxhd.m3u8#http://mobilelive.gxtv.cn/live/nn_live1004/playlist.m3u8
@@ -150,7 +114,7 @@ CCTV-14少儿,http://szdl.3322.org:8888/rtp/233.50.201.124:5140
 新疆卫视,http://27.148.240.138/PLTV/88888888/224/3221226952/1.m3u8
 
 
-山西卫视,http://27.148.240.138/PLTV/88888888/224/3221226869/1.m3u8#http://player.tzjo.com/all/yfy.php?id=54
+山西卫视,http://27.148.240.138/PLTV/88888888/224/3221226869/1.m3u8
 三沙卫视,http://27.148.240.138/PLTV/88888888/224/3221227072/1.m3u8
 西藏卫视,http://27.148.240.138/PLTV/88888888/224/3221226905/1.m3u8
 兵团卫视,http://27.148.240.138/PLTV/88888888/224/3221226918/1.m3u8
@@ -652,6 +616,7 @@ SCTV-7,http://sam629205.f3322.net:2018/udp/239.93.0.219:5140
 济南鲁中,http://0594.52yi.vip/sdjn.php?id=225
 济南科教,http://0594.52yi.vip/sdjn.php?id=226
 
+
 甘肃公共应急,http://39.134.39.39/PLTV/88888888/224/3221226250/index.m3u8
 甘肃少儿,http://39.134.39.39/PLTV/88888888/224/3221226289/index.m3u8
 甘肃文化影视,http://39.134.39.39/PLTV/88888888/224/3221226287/index.m3u8
@@ -712,11 +677,21 @@ SCTV-7,http://sam629205.f3322.net:2018/udp/239.93.0.219:5140
 九江公共频道,http://39.135.139.200:6610/PLTV/88888888/224/3221225775/2/index.m3u8
 九江新闻综合,http://39.135.139.200:6610/PLTV/88888888/224/3221225774/2/index.m3u8
 
+南昌1套,http://0594.52yi.vip/jxnc.php?id=1
+南昌2套,http://0594.52yi.vip/jxnc.php?id=2
+南昌3套,http://0594.52yi.vip/jxnc.php?id=3
+南昌4套,http://0594.52yi.vip/jxnc.php?id=4
+南昌县电视台,http://0594.52yi.vip/jxnc.php?id=8
+
 江苏公共新闻,http://223.110.241.150:6610/gitv/live1/G_JSGG/G_JSGG/
 江苏城市,http://223.110.241.150:6610/gitv/live1/G_JSCS/G_JSCS/
 江苏综艺,http://223.110.241.150:6610/gitv/live1/G_JSZY/G_JSZY/
 江苏影视,http://223.110.241.150:6610/gitv/live1/G_JSYS/G_JSYS/
 江苏教育,http://223.110.241.150:6610/gitv/live1/G_JSJY/G_JSJY/
+苏州新闻综合,http://0594.52yi.vip/jssz.php?id=1
+苏州社会经济,http://0594.52yi.vip/jssz.php?id=2
+苏州文化生活,http://0594.52yi.vip/jssz.php?id=3
+苏州生活资讯,http://0594.52yi.vip/jssz.php?id=4
 
 北京文艺,http://ivi.bupt.edu.cn/hls/btv2hd.m3u8
 北京科教,http://ivi.bupt.edu.cn/hls/btv3.m3u8
@@ -1169,6 +1144,50 @@ HUB娛家戲劇台,P2p://147.135.39.171:9906/5e57771a000a3baf313979c85a704d1c.ts
 TVB星河,P2p://147.135.39.171:9906/5ea53a9a000d39fddb01fd3f19aa567e.ts
 衛視電影台,P2p://147.135.39.171:9906/5d9a250b000845289c9bf7d246ac3362.ts
 
+
+央视频,#genre#
+
+CCTV1,http://0594.52yi.vip/ysp.php?id=2000210103
+CCTV2,http://0594.52yi.vip/ysp.php?id=2000203603
+CCTV3,http://0594.52yi.vip/ysp.php?id=2000203803
+CCTV4,http://0594.52yi.vip/ysp.php?id=2000204803
+CCTV5,http://0594.52yi.vip/ysp.php?id=2000205103
+CCTV5+,http://0594.52yi.vip/ysp.php?id=2000204503
+CCTV6,http://0594.52yi.vip/ysp.php?id=2000203303
+CCTV7,http://0594.52yi.vip/ysp.php?id=2000510003
+CCTV8,http://0594.52yi.vip/ysp.php?id=2000203903
+CCTV9,http://0594.52yi.vip/ysp.php?id=2000499403
+CCTV10,http://0594.52yi.vip/ysp.php?id=2000203503
+CCTV11,http://0594.52yi.vip/ysp.php?id=2000204103
+CCTV12,http://0594.52yi.vip/ysp.php?id=2000202603
+CCTV13,http://0594.52yi.vip/ysp.php?id=2000204603
+CCTV14,http://0594.52yi.vip/ysp.php?id=2000204403
+CCTV15,http://0594.52yi.vip/ysp.php?id=2000205003
+CCTV17,http://0594.52yi.vip/ysp.php?id=2000204203
+CCTV4K,http://0594.52yi.vip/ysp.php?id=2000266303
+CGTN,http://0594.52yi.vip/ysp.php?id=2001656803
+湖南卫视,http://0594.52yi.vip/ysp.php?id=2000296203
+浙江卫视,http://0594.52yi.vip/ysp.php?id=2000295503
+江苏卫视,http://0594.52yi.vip/ysp.php?id=2000295603
+东方卫视,http://0594.52yi.vip/ysp.php?id=2000292403
+山东卫视,http://0594.52yi.vip/ysp.php?id=2000294803
+北京卫视,http://0594.52yi.vip/ysp.php?id=2000272103
+辽宁卫视,http://0594.52yi.vip/ysp.php?id=2000281303
+黑龙江卫视,http://0594.52yi.vip/ysp.php?id=2000293903
+广东卫视,http://0594.52yi.vip/ysp.php?id=2000292703
+安徽卫视,http://0594.52yi.vip/ysp.php?id=2000298003
+深圳卫视,http://0594.52yi.vip/ysp.php?id=2000292203
+天津卫视,http://0594.52yi.vip/ysp.php?id=2000295103
+重庆卫视,http://0594.52yi.vip/ysp.php?id=2000297803
+东南卫视,http://0594.52yi.vip/ysp.php?id=2000292503
+广西卫视,http://0594.52yi.vip/ysp.php?id=2000294203
+河北卫视,http://0594.52yi.vip/ysp.php?id=2000293403
+河南卫视,http://0594.52yi.vip/ysp.php?id=2000296103
+湖北卫视,http://0594.52yi.vip/ysp.php?id=2000294503
+江西卫视,http://0594.52yi.vip/ysp.php?id=2000294103
+四川卫视,http://0594.52yi.vip/ysp.php?id=2000295003
+贵州卫视,http://0594.52yi.vip/ysp.php?id=2000293303
+海南卫视,http://0594.52yi.vip/ysp.php?id=2000291503
 测试1_1119,#genre#
 
 
