@@ -11,6 +11,10 @@ CCTV-13新闻,http://suo.im/60rnBK#http://39.135.225.5:18890/PLTV/88888888/224/3
 海峡卫视国际频道,http://27.148.240.138/PLTV/88888888/224/3221226748/1.m3u8
 新华社中文,http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
 
+
+
+
+
 央视卫视,#genre#
 CCTV-1综合,http://27.148.240.138/PLTV/88888888/224/3221226773/1.m3u8
 CCTV-2财经,http://27.148.240.138/PLTV/88888888/224/3221226788/1.m3u8
@@ -1034,6 +1038,21 @@ ELTA体育台1,http://ikands.xyz/dl/ua?token=1216154892&vkeys=dmlkJTNEZm1pbGl2ZS
 ELTA体育台2,http://ikands.xyz/dl/ua?token=1216154892&vkeys=dmlkJTNEZm1pbGl2ZSUyM2lkJTNEZWx0YTI_
 ELTA体育台3,http://ikands.xyz/dl/ua?token=1216154892&vkeys=dmlkJTNEZm1pbGl2ZSUyM2lkJTNEZWx0YTM_
 港台频道,#genre#
+有线财经资讯台,http://livetv.dnsfor.me:80/channel.6.m3u8
+有线新闻台,http://livetv.dnsfor.me:80/channel.5.m3u8
+有线综合娱乐台,http://livetv.dnsfor.me:80/channel.7.m3u8
+now直播台,http://livetv.dnsfor.me:80/channel.3.m3u8
+now新闻台,http://livetv.dnsfor.me:80/channel.4.m3u8
+RTHK31,http://livetv.dnsfor.me:80/channel.1.m3u8
+RTHK32,http://livetv.dnsfor.me:80/channel.2.m3u8
+香港开电视,http://livetv.dnsfor.me:80/channel.9.m3u8
+TVB无线新闻台,http://livetv.dnsfor.me:80/channel.10.m3u8
+TVB财经资讯台,http://livetv.dnsfor.me:80/channel.11.m3u8
+now体育台,http://livetv.dnsfor.me:80/channel.12.m3u8
+TVB翡翠台,http://livetv.dnsfor.me:80/channel.18.m3u8
+TVBJ2,http://livetv.dnsfor.me:80/channel.19.m3u8
+VIUTV,http://livetv.dnsfor.me:80/channel.20.m3u8
+
 
 有线电影台,http://live.vpnyun.tk:8080/demo/456321/13
 有线体育台,http://live.vpnyun.tk:8080/demo/456321/10
